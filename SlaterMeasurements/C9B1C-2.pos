@@ -1,0 +1,29 @@
+#DENDRO (Cybis Dendro program compatible format) Coordinate file written as C:\Users\dce25\Documents\R Projects\zelandica-IPO\SlaterMeasurements\C9B1C-2.pos 2023-09-27 13:12:53
+#Imagefile C:\Users\dce25\Documents\R Projects\zelandica-IPO\Slater-GoldenBayImages\C9B1C.PNG
+#DPI 25.4
+#All coordinates in pixels
+SCALE 1
+#C Written=2023-09-27 13:12:53; 
+#C CooRecorder=9.8.1 March 23 2022; 
+#C licensedTo=David Edge, david.edge@nau.edu; 
+375,110 
+381,118 
+387,125 
+394,132 
+402,141 
+409,148 
+420,163 
+431,176 
+440,189 
+449,198 
+462,215 
+471,226 
+484,239 
+497,256 
+522,289 
+548,319 
+584,364 
+620,428 
+655,502 
+684,581 
+717,692 
